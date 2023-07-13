@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm M@hesh</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-trapasiya&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-trapasiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaheshTrapasiya&label=Profile%20views&color=0e75b6&style=flat" alt="MaheshTrapasiya" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=mahesh-trapasiya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"><img src="https://github-profile-trophy.vercel.app/?username=mahesh-trapasiya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="mahesh-trapasiya" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=MaheshTrapasiya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true"><img src="https://github-profile-trophy.vercel.app/?username=MaheshTrapasiya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="MaheshTrapasiya" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,8 +34,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahesh-trapasiya&show_icons=true&locale=en&layout=compact&theme=dracula&hide=stars,issues" alt="mahesh-trapasiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaheshTrapasiya&show_icons=true&locale=en&layout=compact&theme=dracula&hide=stars,issues" alt="MaheshTrapasiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahesh-trapasiya&show_icons=true&locale=en&theme=dracula&hide=stars,issues" alt="mahesh-trapasiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheshTrapasiya&show_icons=true&locale=en&theme=dracula&hide=stars,issues" alt="MaheshTrapasiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-trapasiya&theme=dracula&hide=stars,issues" alt="mahesh-trapasiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaheshTrapasiya&theme=dracula&hide=stars,issues" alt="MaheshTrapasiya" /></p>
