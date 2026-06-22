@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=maheshtrapasiya&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/Experience-6.4%2B%20Years-0f172a?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Production%20Grade%20SaaS-1e40af?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Surat%2C%20India-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
